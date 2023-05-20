@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
+# Eco-cosmetics
 
     - [DEMO LINK](https://ruslanliapin.github.io/Eco-cosmetics-landing/)
 
